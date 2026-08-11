@@ -10,7 +10,9 @@ Steam向けゲーム『**SIGNOS: AI Robot Builder**』の法務ドキュメン�
 | --- | --- | --- |
 | プライバシーポリシー / Privacy Policy | [`index.html`](index.html) | 日本語・English(併記) |
 
-公開URLは GitHub Pages 有効化後に `https://zeoperdise-apps.github.io/signos-legal/` となります(Settings → Pages → Source: `main` / `/ (root)`)。このURLをSteamストアページのプライバシーポリシー欄に登録します。
+**公開URL: <https://zeoperdise-apps.github.io/signos-legal/>**
+
+GitHub Pages(Source: `main` / `/ (root)`)で公開しています。このURLをSteamストアページのプライバシーポリシー欄に登録します。`main` に push すると自動的に再デプロイされるため、**変更をpushした時点で公開ポリシーが差し替わる**点に注意してください。
 
 ## ローカルでの確認
 
